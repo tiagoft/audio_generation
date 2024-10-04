@@ -2,6 +2,7 @@ name: audiogen
 
 dependencies:
   - python=3.12
+  - pip
   - pip:
     - ipykernel
     - ipython
