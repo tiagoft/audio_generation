@@ -13,6 +13,11 @@ conda activate audiogen
 
 - Copy `env.example` to `.env`
 
+```bash
+cp .env.example .env
+```
+
+
 - Edit `.env` to set the correct values for the environment variables.
 
 Make sure you don't hardcode anything system-specific in your scripts and notebooks: read them from environment variables instead.
