@@ -13,3 +13,5 @@ scipy
 toml
 tqdm
 yapf
+torch
+librosa
